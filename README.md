@@ -156,7 +156,7 @@ public class MainActivity extends AppCompatActivity {
 
 ![MAD Exp_5(1_](https://github.com/user-attachments/assets/f9c2e1d6-5bfb-4128-bb72-5c25bb839de3)
 
-![MAD Exp_5](https://github.com/user-attachments/assets/e095ab41-5f7d-41d0-855c-bf2db134f7e5)
+![MAD Exp_5(2)](https://github.com/user-attachments/assets/5f6fdba2-8081-4a79-81e2-07edd82fa0ff)
 
 
 ## RESULT
