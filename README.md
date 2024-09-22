@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the contact name and phone number using content providers.
-Developed by:
-Registeration Number :
+Developed by: GOKULA PRIYA P
+Registeration Number : 212222040044
 */
 ```
 
@@ -149,12 +149,14 @@ public class MainActivity extends AppCompatActivity {
         </activity>
     </application>
 
-</manifest>![Screenshot 2024-09-17 194637](https://github.com/user-attachments/assets/3e17ead9-eb04-43f3-b6e5-10ddd1dae911)
+</manifest>
 ```
 
 ## OUTPUT
 
+![MAD Exp_5(1_](https://github.com/user-attachments/assets/f9c2e1d6-5bfb-4128-bb72-5c25bb839de3)
 
+![MAD Exp_5](https://github.com/user-attachments/assets/e095ab41-5f7d-41d0-855c-bf2db134f7e5)
 
 
 ## RESULT
